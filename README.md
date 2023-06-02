@@ -2,14 +2,14 @@
 
 
 <p align="center">
-👋 Hello everyone!
+
 </r>
 
 <p align="center">
-I am Tamara Andric, currently a student at "Prirodno-matematicki Fakultet" in Novi Sad, Serbia majoring in Information Technology (IT).
+
 </p>
 <p align="center">
-📫 How to reach me: tamaraandric222@gmail.com
+
 </p>
 
 
